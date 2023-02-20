@@ -9,10 +9,11 @@
 
 ```
 
+
 ```
 
-<!-- Первый столбец --> Check
-form.form>div.forms>fieldset.form__info>legend.form__legend>(lable.form__lable)*3+div.form__choose-sex>(lable)*2
+<!-- Первый столбец -->
+form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.choose_sex>(label>input>span)*2^^fieldset.form__info>legend.form__legend>(label.form__label)*6^^.buttons>button.btn*2
 ![Image Alt](form.jpg)
 
 <!-- Header --> True
