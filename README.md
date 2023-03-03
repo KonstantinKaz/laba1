@@ -11,22 +11,27 @@
 
 
 ```
-
 <!-- Первый столбец -->
-form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.form__choose_sex>(label>input>span)*2^^fieldset.form__info>legend.form__legend>(label.form__label)*6^^.buttons>button.btn*2
-![Image Alt](form.jpg)
-
-<!-- Header --> 
-header.header>div>a.header__logo^nav.nav>ul.nav__menu>(li>a.nav__link)*6^^div>a.phone
-![Image Alt](header.jpg)
-
-<!-- Отзывы -->
-
-blockquote.feedback>.feedback__title-block>h3.feedback__name+time.feedback__date+img^p.feedback__text+.feedback__footer>button.feedback__btn+.markes>img.markes__img*5
-![Image Alt](feedback.jpg)
-
-<!-- Card -->
-section.audio_tex>.audio_tex__text>h3>span^p+a.audio_tex__link^.audio_tex__image>audio_tex__img
-![Image Alt](card.jpg)
+form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.form__choose-sex>label>input*2^^fieldset.form__info>legend.form__legend>(label.form__label>input.form__input)*6^^.buttons>button.btn*2
+```
+![Image Alt](img/form.png)
 
 ```
+<!-- Header --> 
+header.header>a.header__logo>img.header__img^nav.nav>ul.nav__menu>li.nav__item*6>a.nav__link^^a.phone
+```
+![Image Alt](img/header.jpg)
+
+```
+<!-- Отзывы -->
+blockquote.feedback>.feedback__title-block>h3.feedback__name+time.feedback__date+img.feedback__img^p.feedback__text+.feedback__footer>button.feedback__btn+.markes>img.markes__img*5
+```
+![Image Alt](img/feedback.jpg)
+
+```
+<!-- Card -->
+section.audio-tex>.audio-tex__content>h3.audio-tex__title>span.audio-tex__title--color-accent^p.audio-tex__text+a.audio-tex__link^.audio-tex__image>img.audio_tex__img
+```
+![Image Alt](img/card.jpg)
+
+
