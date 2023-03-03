@@ -22,11 +22,11 @@ header.header>div>a.header__logo^nav.nav>ul.nav__menu>(li>a.nav__link)*6^^div>a.
 
 <!-- Отзывы -->
 
-blockquote.feedback__card>.feedback__title-block>h3.feedback__name+time.feedback__date+img^p.feedback__text+.feedback__footer>button.feedback__btn+.footer__markes__image>(img.footer__markes)*5
+blockquote.feedback>.feedback__title-block>h3.feedback__name+time.feedback__date+img^p.feedback__text+.feedback__footer>button.feedback__btn+.markes>img.markes__img*5
 ![Image Alt](feedback.jpg)
 
 <!-- Card -->
-.audio_tex__main>.audio_tex__text>h3>span^+p+a.link_template^.audio_tex__image>img.audio_tex__img
+section.audio_tex>.audio_tex__text>h3>span^p+a.audio_tex__link^.audio_tex__image>audio_tex__img
 ![Image Alt](card.jpg)
 
 ```
