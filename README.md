@@ -12,7 +12,7 @@
 
 ```
 <!-- Первый столбец -->
-form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.form__choose-sex>label>input*2^^fieldset.form__info>legend.form__legend>(label.form__label>input.form__input)*6^^.buttons>button.btn*2
+form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.form__choose-sex>label.form__label*2>input.form__input^^^fieldset.form__info>legend.form__legend>label.form__label*6>input.form__input^^.buttons>button.btn*2
 ```
 ![Image Alt](img/form.png)
 
@@ -30,7 +30,7 @@ blockquote.feedback>.feedback__title-block>h3.feedback__name+time.feedback__date
 
 ```
 <!-- Card -->
-section.audio-tex>.audio-tex__content>h3.audio-tex__title>span.audio-tex__title--color-accent^p.audio-tex__text+a.audio-tex__link^.audio-tex__image>img.audio_tex__img
+section.audio-tex>.audio-tex__content>h3.audio-tex__title>span.audio-tex__title--color-accent^p.audio-tex__text+a.audio-tex__link^img.audio_tex__img
 ```
 ![Image Alt](img/card.jpg)
 
