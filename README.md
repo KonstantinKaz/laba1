@@ -13,11 +13,11 @@
 ```
 
 <!-- Первый столбец -->
-form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.choose_sex>(label>input>span)*2^^fieldset.form__info>legend.form__legend>(label.form__label)*6^^.buttons>button.btn*2
+form.form.form--flex>fieldset.form__info>legend.form__legend+label.form__label*3+.form__choose_sex>(label>input>span)*2^^fieldset.form__info>legend.form__legend>(label.form__label)*6^^.buttons>button.btn*2
 ![Image Alt](form.jpg)
 
-<!-- Header --> True
-header.header__container1>div>a.header__logo^nav.header__nav>ul.nav__menu>(li>a.nav__link)*6^^div>a.phone
+<!-- Header --> 
+header.header>div>a.header__logo^nav.nav>ul.nav__menu>(li>a.nav__link)*6^^div>a.phone
 ![Image Alt](header.jpg)
 
 <!-- Отзывы -->
